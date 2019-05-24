@@ -1,0 +1,6 @@
+framework module KHCalendar {
+  umbrella header "KHCalendar-umbrella.h"
+
+  export *
+  module * { export * }
+}

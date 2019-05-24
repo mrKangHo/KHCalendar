@@ -1,0 +1,22 @@
+{
+  "name": "KHCalendar",
+  "version": "0.1.0",
+  "summary": "A short description of KHCalendar.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/이강호/KHCalendar",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "이강호": "kangho.lee@buxikorea.com"
+  },
+  "source": {
+    "git": "https://github.com/이강호/KHCalendar.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "KHCalendar/Classes/**/*"
+}
