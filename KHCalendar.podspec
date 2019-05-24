@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KHCalendar'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = '달력 데이터 모델 입니다.'
 
 # This description is used to generate tags and improve search results.
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   s.source           = { :git => 'https://github.com/mrKangHo/KHCalendar.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
-  s.ios.deployment_target = '8.0'
+  s.ios.deployment_target = '9.0'
 
   s.source_files = 'KHCalendar/Classes/**/*'
   
