@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'KHCalendar'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = '달력 데이터 모델 입니다.'
 
 # This description is used to generate tags and improve search results.
